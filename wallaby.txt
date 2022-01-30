@@ -1,0 +1,12 @@
+Install centos8 vm
+create 6 copies
+
+power on 1st 3
+1st is a controller
+2nd and 3rd compute
+
+create one cent os 8 router
+add 
+
+
+
