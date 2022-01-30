@@ -668,6 +668,7 @@ openstack endpoint create --region RegionOne \
 
 Configure Provider network
 #https://docs.openstack.org/neutron/wallaby/install/controller-install-option1-rdo.html
+https://docs.openstack.org/neutron/wallaby/install/ovn/manual_install.html
 
 On the controller node
 
